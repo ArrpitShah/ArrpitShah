@@ -32,11 +32,11 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arpitshah&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArrpitShah&show_icons=true&theme=tokyonight" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitshah&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArrpitShah&theme=tokyonight" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitshah&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrpitShah&layout=compact&theme=tokyonight" />
 </p>
 
 ---
