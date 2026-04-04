@@ -32,11 +32,11 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arrpitshah&show_icons=true&theme=tokyonight" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arrpitshah&theme=tokyonight" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrpitshah&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ### 🌐 Connect with Me:
 <p align="center">
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/arrpit-kumar-ab673227a/?skipRedirect=true)">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/arrpit-kumar-ab673227a/" target="_blank">LinkedIn</a> |
 <a href="mailto:thearpitshah@gmail.com">Email</a>
 </p>
 
